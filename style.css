@@ -1,0 +1,60 @@
+body{
+	background-color: #52596b;
+	background-image:
+    url(background.jpg);
+    /* margin-left: 40px; */
+    font-family: helvetica, Arial, "Lucida Grande", sans-serif;
+    color:white;
+    /* margin: 0; */
+	}
+    
+
+div#header-cont {
+    width:100%;
+    position:fixed;
+    top:0px;
+                 }
+
+div#header {
+    background-image:url('stripes.png');
+    background-repeat: repeat-x;
+    background:url(stripes.png) repeat-x;
+    margin:0px auto;
+    /* top:0px; */
+                 } 
+
+ div#button{
+        margin-left: 90px;
+    }
+
+h1{
+    /* padding-left: 40px; */
+	margin-top: 430px;
+	line-height: 1.5;
+   }
+
+h2{
+   /*margin-left: 90px; */
+   font: helvetica;
+   color:white;
+   font-weight: 100;}
+
+hr{
+    height: 12px;
+    /* margin-left: 90px; */
+    border: 0;
+    width: 30px;
+    float: left;
+    box-shadow: inset 0 12px 12px -12px #905d67;
+}
+
+a{
+	text-decoration: none;
+ } 
+
+ div#content{
+    margin-left: 40px;
+    padding-left: 40px;
+ }
+
+
